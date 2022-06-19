@@ -1,7 +1,4 @@
 node_modules/
-
-# Ignore files begin with letter z
 z*
-
-# Ignore files with extensions .dev
 *.env
+/artifacts/
