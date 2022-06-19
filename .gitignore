@@ -4,4 +4,4 @@ node_modules/
 z*
 
 # Ignore files with extensions .dev
-*.dev
+*.env
